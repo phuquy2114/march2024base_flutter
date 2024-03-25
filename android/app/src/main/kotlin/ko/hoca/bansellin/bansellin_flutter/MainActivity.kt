@@ -1,0 +1,5 @@
+package ko.hoca.bansellin.bansellin_flutter
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
